@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:iconTint="@color/black"
+        android:title="@string/procurar"
+        android:icon="@drawable/icons8_pesquisar"/>
+
+    <item
+        android:id="@+id/notifications"
+        android:iconTint="@color/black"
+        android:icon="@drawable/icons8_notifications"
+        android:title="@string/notifica_es"/>
+
+    <item android:id="@+id/profile"
+        android:iconTint="@color/black"
+        android:title="@string/perfil"
+        android:icon="@drawable/icons8_profile"/>
+</menu>

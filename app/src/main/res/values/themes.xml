@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookingHousesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="ThemeMaterialCalendar" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorPrimary">#FF4848</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+
+    <!-- Defined a new style with three items of color. -->
+    <style name="StatusBarTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorAccent">@color/Accent</item>
+    </style>
+
+    <style name="Theme.BookingHousesApp" parent="Base.Theme.BookingHousesApp" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7092464856",
+    "project_id": "ezbooking-686a3",
+    "storage_bucket": "ezbooking-686a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7092464856:android:89be42739ecd172ed9bbad",
+        "android_client_info": {
+          "package_name": "ipca.utility.bookinghousesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn217bAakwRto2nCqhmbF7UFwpfcXpK2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

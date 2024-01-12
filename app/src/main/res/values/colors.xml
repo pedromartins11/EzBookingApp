@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#7C7C7C</color>
+
+    <color name="Primary">#673AB7</color>
+    <color name="PrimaryDark">#151515</color>
+    <color name="Accent">#FF5252</color>
+    <color name="PrimaryText">#212121</color>
+    <color name="Background">#ECECEC</color>
+
+    <color name="selecionado">#000000</color>
+    <color name="nao_selecionado">#808080</color>
+
+    <color name="nao_selecionadoo">#C1C1C1</color>
+</resources>

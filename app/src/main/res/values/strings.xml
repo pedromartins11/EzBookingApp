@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookingHousesApp</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="procurar">Procurar</string>
+    <string name="perfil">Perfil</string>
+    <string name="notifica_es">Notificações</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+</resources>
